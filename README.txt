@@ -1,7 +1,7 @@
 In order to run this program you must create an account at https://fred.stlouisfed.org/
 and request an API KEY.
 
-This program will grab data up to years from date of running the program if the data is available,
+This program will grab data up to 10 years from date of running the program if the data is available,
 So keep in mind if you want specific dates you must modify the program.
 
 ****Known issues with mplcursor in juypter notebook****
